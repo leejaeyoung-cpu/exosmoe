@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+opencv-python-headless
+Pillow
+plotly
+PyYAML
+cellpose
+torch
+torchvision
+scikit-image
+matplotlib
+scipy
