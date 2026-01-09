@@ -6,10 +6,8 @@ Pillow
 plotly
 PyYAML
 cellpose
-torch
-torchvision
-scikit-image
-matplotlib
-scipy
 gspread
 oauth2client
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
