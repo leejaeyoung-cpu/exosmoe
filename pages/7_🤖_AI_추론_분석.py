@@ -166,6 +166,30 @@ with tab1:
                 
                 st.divider()
         
+        # CSV 다운로드 버튼
+        results_list = []
+        for r in st.session_state.analysis_results:
+            if 'prediction' in r:
+                results_list.append({
+                    'Image': Path(r['image_path']).name,
+                    'Prediction': r['prediction']['class_name'],
+                    'Confidence': r['prediction']['confidence'],
+                    'Cell_Count': r['cellpose']['num_cells'] if 'cellpose' in r else 0,
+                    'Timestamp': r.get('timestamp', '')
+                })
+        
+        if results_list:
+            df_download = pd.DataFrame(results_list)
+            csv = df_download.to_csv(index=False).encode('utf-8-sig')
+            
+            st.download_button(
+                label="📥 분석 결과 다운로드 (CSV)",
+                data=csv,
+                file_name="analysis_results.csv",
+                mime="text/csv",
+                type="primary"
+            )
+        
         # 초기화 버튼
         if st.button("🔄 새로운 분석 시작"):
             st.session_state.analysis_results = []
@@ -231,6 +255,16 @@ with tab2:
                         color='예측 기능'
                     )
                     st.plotly_chart(fig, use_container_width=True)
+                    
+                    # CSV 다운로드
+                    csv_huvec = df_results.to_csv(index=False).encode('utf-8-sig')
+                    st.download_button(
+                        label="📥 HUVEC 분석 결과 다운로드 (CSV)",
+                        data=csv_huvec,
+                        file_name="huvec_analysis_results.csv",
+                        mime="text/csv",
+                        type="primary"
+                    )
                     
                 except Exception as e:
                     st.error(f"❌ 오류: {e}")
