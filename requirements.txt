@@ -11,3 +11,5 @@ torchvision
 scikit-image
 matplotlib
 scipy
+gspread
+oauth2client
