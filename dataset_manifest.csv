@@ -1,0 +1,31 @@
+file_path,file_name,label,type,split
+c:/Users/brook/Desktop/mi_exo_ai\이미지\AG11513\241224 AG11513-0.jpg,241224 AG11513-0.jpg,AG11513,image,train
+c:/Users/brook/Desktop/mi_exo_ai\이미지\AG11513\241224 AG11513-2.jpg,241224 AG11513-2.jpg,AG11513,image,train
+c:/Users/brook/Desktop/mi_exo_ai\이미지\AG11513\AG11513-1.jpg,AG11513-1.jpg,AG11513,image,train
+c:/Users/brook/Desktop/mi_exo_ai\이미지\AG11513\AG11513-5.jpg,AG11513-5.jpg,AG11513,image,train
+c:/Users/brook/Desktop/mi_exo_ai\이미지\AG11513+siPRNP\AG11513 siPRNP 1.jpg,AG11513 siPRNP 1.jpg,AG11513+siPRNP,image,val
+c:/Users/brook/Desktop/mi_exo_ai\이미지\AG11513+siPRNP\AG11513 siPRNP 2.jpg,AG11513 siPRNP 2.jpg,AG11513+siPRNP,image,train
+c:/Users/brook/Desktop/mi_exo_ai\이미지\AG11515+control\control 1.jpg,control 1.jpg,AG11515+control,image,val
+c:/Users/brook/Desktop/mi_exo_ai\이미지\AG11515+control\control 2.jpg,control 2.jpg,AG11515+control,image,train
+c:/Users/brook/Desktop/mi_exo_ai\이미지\AG11515+control\control 3.jpg,control 3.jpg,AG11515+control,image,train
+c:/Users/brook/Desktop/mi_exo_ai\이미지\AG11515+Mt-exo\exo 1.jpg,exo 1.jpg,AG11515+Mt-exo,image,train
+c:/Users/brook/Desktop/mi_exo_ai\이미지\AG11515+Mt-exo\exo 2.jpg,exo 2.jpg,AG11515+Mt-exo,image,train
+c:/Users/brook/Desktop/mi_exo_ai\이미지\AG11515+Mt-exo\exo 3.jpg,exo 3.jpg,AG11515+Mt-exo,image,train
+c:/Users/brook/Desktop/mi_exo_ai\이미지\HDFS\241224 HDFs-2.jpg,241224 HDFs-2.jpg,HDFS,image,train
+c:/Users/brook/Desktop/mi_exo_ai\이미지\HDFS\241224 HDFs.jpg,241224 HDFs.jpg,HDFS,image,val
+c:/Users/brook/Desktop/mi_exo_ai\이미지\HDFS\HDFs.jpg,HDFs.jpg,HDFS,image,train
+c:/Users/brook/Desktop/mi_exo_ai\이미지\조로증 AI 분석\1.png,1.png,조로증 AI 분석,image,train
+c:/Users/brook/Desktop/mi_exo_ai\이미지\조로증 AI 분석\111.png,111.png,조로증 AI 분석,image,train
+c:/Users/brook/Desktop/mi_exo_ai\이미지\조로증 AI 분석\222.png,222.png,조로증 AI 분석,image,train
+c:/Users/brook/Desktop/mi_exo_ai\이미지\조로증 AI 분석\333.png,333.png,조로증 AI 분석,image,train
+c:/Users/brook/Desktop/mi_exo_ai\이미지\조로증 AI 분석\AG11513 siPRNP1.png,AG11513 siPRNP1.png,조로증 AI 분석,image,train
+c:/Users/brook/Desktop/mi_exo_ai\이미지\조로증 AI 분석\AG11513 siPRNP2.png,AG11513 siPRNP2.png,조로증 AI 분석,image,train
+c:/Users/brook/Desktop/mi_exo_ai\이미지\조로증 AI 분석\AG11513+Mt-exo-control.png,AG11513+Mt-exo-control.png,조로증 AI 분석,image,train
+c:/Users/brook/Desktop/mi_exo_ai\이미지\조로증 AI 분석\AG11513+Mt-exo.png,AG11513+Mt-exo.png,조로증 AI 분석,image,train
+c:/Users/brook/Desktop/mi_exo_ai\이미지\조로증 AI 분석\AG11513-4.png,AG11513-4.png,조로증 AI 분석,image,train
+c:/Users/brook/Desktop/mi_exo_ai\이미지\조로증 AI 분석\AG11513.png,AG11513.png,조로증 AI 분석,image,train
+c:/Users/brook/Desktop/mi_exo_ai\이미지\조로증 AI 분석\exo1.png,exo1.png,조로증 AI 분석,image,train
+c:/Users/brook/Desktop/mi_exo_ai\이미지\조로증 AI 분석\HDFs-2.png,HDFs-2.png,조로증 AI 분석,image,test
+c:/Users/brook/Desktop/mi_exo_ai\이미지\조로증 AI 분석\HDFs.png,HDFs.png,조로증 AI 분석,image,test
+c:/Users/brook/Desktop/mi_exo_ai\이미지\조로증 AI 분석\key_metrics_comparison_fixed.png,key_metrics_comparison_fixed.png,조로증 AI 분석,image,train
+c:/Users/brook/Desktop/mi_exo_ai\이미지\조로증 AI 분석\다운로드 (1).png,다운로드 (1).png,조로증 AI 분석,image,train

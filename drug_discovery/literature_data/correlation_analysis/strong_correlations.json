@@ -1,0 +1,116 @@
+[
+  {
+    "var1": "dose_mg_kg",
+    "var2": "total_doses",
+    "correlation": 0.6852969842961236,
+    "interpretation": "Moderate positive relationship between dose_mg_kg and total_doses"
+  },
+  {
+    "var1": "dose_mg_kg",
+    "var2": "creatinine_change_pct",
+    "correlation": -0.7615036578553911,
+    "interpretation": "Strong negative relationship between dose_mg_kg and creatinine_change_pct"
+  },
+  {
+    "var1": "dose_mg_kg",
+    "var2": "inflammation_score",
+    "correlation": -0.74867986415267,
+    "interpretation": "Strong negative relationship between dose_mg_kg and inflammation_score"
+  },
+  {
+    "var1": "dose_mg_kg",
+    "var2": "efficacy_score",
+    "correlation": 0.6543172446911496,
+    "interpretation": "Moderate positive correlation suggests dose-dependent efficacy"
+  },
+  {
+    "var1": "total_doses",
+    "var2": "creatinine_change_pct",
+    "correlation": -0.6330604423066484,
+    "interpretation": "Moderate negative relationship between total_doses and creatinine_change_pct"
+  },
+  {
+    "var1": "creatinine_change_pct",
+    "var2": "bun_change_pct",
+    "correlation": 0.8629203237962786,
+    "interpretation": "Strong positive relationship between creatinine_change_pct and bun_change_pct"
+  },
+  {
+    "var1": "creatinine_change_pct",
+    "var2": "fibrosis_score",
+    "correlation": 0.7560815109381338,
+    "interpretation": "Strong positive relationship between creatinine_change_pct and fibrosis_score"
+  },
+  {
+    "var1": "creatinine_change_pct",
+    "var2": "inflammation_score",
+    "correlation": 0.914206004802414,
+    "interpretation": "Strong positive relationship between creatinine_change_pct and inflammation_score"
+  },
+  {
+    "var1": "creatinine_change_pct",
+    "var2": "efficacy_score",
+    "correlation": -0.9361138466148281,
+    "interpretation": "Strong negative relationship between creatinine_change_pct and efficacy_score"
+  },
+  {
+    "var1": "creatinine_change_pct",
+    "var2": "safety_score",
+    "correlation": 0.6830458859076336,
+    "interpretation": "Moderate positive relationship between creatinine_change_pct and safety_score"
+  },
+  {
+    "var1": "bun_change_pct",
+    "var2": "fibrosis_score",
+    "correlation": 0.8727587150621581,
+    "interpretation": "Strong positive relationship between bun_change_pct and fibrosis_score"
+  },
+  {
+    "var1": "bun_change_pct",
+    "var2": "inflammation_score",
+    "correlation": 0.780714841012416,
+    "interpretation": "Strong positive relationship between bun_change_pct and inflammation_score"
+  },
+  {
+    "var1": "bun_change_pct",
+    "var2": "efficacy_score",
+    "correlation": -0.9140472189405332,
+    "interpretation": "Strong negative relationship between bun_change_pct and efficacy_score"
+  },
+  {
+    "var1": "bun_change_pct",
+    "var2": "safety_score",
+    "correlation": 0.6543586055019269,
+    "interpretation": "Moderate positive relationship between bun_change_pct and safety_score"
+  },
+  {
+    "var1": "fibrosis_score",
+    "var2": "inflammation_score",
+    "correlation": 0.7651451920112177,
+    "interpretation": "Strong positive relationship between fibrosis_score and inflammation_score"
+  },
+  {
+    "var1": "fibrosis_score",
+    "var2": "efficacy_score",
+    "correlation": -0.826535914211218,
+    "interpretation": "Strong negative correlation links efficacy to fibrosis reduction"
+  },
+  {
+    "var1": "inflammation_score",
+    "var2": "efficacy_score",
+    "correlation": -0.8689395368392813,
+    "interpretation": "Strong negative relationship between inflammation_score and efficacy_score"
+  },
+  {
+    "var1": "inflammation_score",
+    "var2": "safety_score",
+    "correlation": 0.7685332745843496,
+    "interpretation": "Strong positive relationship between inflammation_score and safety_score"
+  },
+  {
+    "var1": "efficacy_score",
+    "var2": "safety_score",
+    "correlation": -0.7957806512324688,
+    "interpretation": "Strong negative relationship between efficacy_score and safety_score"
+  }
+]

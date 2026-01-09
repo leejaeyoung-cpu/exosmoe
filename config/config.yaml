@@ -1,0 +1,23 @@
+# Default Configuration
+app_name: "Mela-Exosome AI Platform"
+version: "1.0.0"
+
+paths:
+  manifest: "dataset_manifest.csv"
+  omics_data: "data/Final_Analysis_Result/Final_Analysis_Result/data3.xlsx"
+  model_save_dir: "checkpoints"
+  logs_dir: "logs"
+
+training:
+  default_epochs: 50
+  default_batch_size: 32
+  default_learning_rate: 0.001
+  model_name: "resnet50"
+
+classes:
+  - "AG11513"
+  - "AG11513+siPRNP"
+  - "AG11515+control"
+  - "AG11515+Mt-exo"
+  - "HDFS"
+  - "조로증 AI 분석"

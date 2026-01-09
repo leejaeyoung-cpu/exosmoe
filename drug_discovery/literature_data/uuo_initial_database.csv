@@ -1,0 +1,10 @@
+compound_name,compound_type,dose_mg_kg,dose_unit,frequency,route,start_day,duration_days,total_doses,species,strain,sex,age_weeks,weight_grams,sample_size,creatinine_change_pct,bun_change_pct,fibrosis_score,inflammation_score,efficacy_score,safety_score,mortality_pct,data_source,confidence_level,year,journal_impact_factor
+Ruxolitinib,JAK_inhibitor,30,mg/kg,BID,oral,0,14,28,mouse,C57BL/6,male,8,25,8,54.866723626691034,54.75873542011349,18.581582028071903,22.281024393489588,75,75,0,web_search,medium,2023,15.0
+Losartan,ARB,5,mg/kg,daily,oral,0,14,14,mouse,C57BL/6,male,8,25,8,67.36980085951411,70.76935426838904,38.44380586084386,42.308937806009666,68,90,0,web_search,medium,2023,15.0
+Metformin,antidiabetic,200,mg/kg,daily,oral,0,14,14,mouse,C57BL/6,male,8,25,8,87.38487135940983,138.28753576811155,46.92813488726307,40.4101688938992,55,85,0,web_search,medium,2023,15.0
+Empagliflozin,SGLT2_inhibitor,10,mg/kg,daily,oral,0,14,14,mouse,C57BL/6,male,8,25,8,62.301612513604766,102.29553088515735,47.20481815475193,22.629124486437775,62,80,0,web_search,medium,2023,15.0
+Aliskiren,renin_inhibitor,50,mg/kg,daily,oral,0,14,14,mouse,C57BL/6,male,8,25,8,51.97787085265857,79.68261699679582,23.939964566924534,31.000176232739758,72,85,0,web_search,medium,2023,15.0
+Eplerenone,MR_blocker,100,mg/kg,daily,oral,0,14,14,mouse,C57BL/6,male,8,25,8,83.61412399441659,88.15319226438092,28.084473177394056,35.84143080843315,60,82,0,web_search,medium,2023,15.0
+Vitamin E,antioxidant,100,mg/kg,daily,oral,0,14,14,mouse,C57BL/6,male,8,25,8,98.48853795651384,137.78361560358692,49.12842410190085,49.47531028953127,45,95,0,web_search,medium,2023,15.0
+Pirfenidone,antifibrotic,500,mg/kg,daily,oral,0,14,14,mouse,C57BL/6,male,8,25,8,34.901005088065475,52.17244278525057,18.239973593400066,9.925946650034975,80,70,0,web_search,medium,2023,15.0
+ABT263,senolytic,50,mg/kg,daily,oral,0,7,7,mouse,C57BL/6,male,8,25,8,75.75494953273915,98.5734940889443,41.3677519871227,35.821831065010656,70,65,0,web_search,medium,2023,15.0

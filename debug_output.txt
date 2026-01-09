@@ -1,0 +1,59 @@
+﻿================================================================================
+MT-EXO 데이터 디버깅
+================================================================================
+
+1. 파일 존재 확인: True
+
+2. 데이터 shape: (101, 46)
+   행 수: 101
+   열 수: 46
+
+3. 전체 컬럼 목록:
+    1. ProbeID
+    2. Transcript ID(Array Design)
+    3. mirBase
+    4. MT-EXOSOME/Con-EXO.fc
+    5. MT-EXOSOME/Con-EXO.volume
+    6. MT-EXOSOME/Con-EXO.detected
+    7. Con-EXO.mean
+    8. MT-EXOSOME.mean
+    9. N_Con-EXO
+   10. N_MT-EXOSOME
+   11. Con-EXO-Detection
+   12. MT-EXOSOME-Detection
+   13. GeneChip Array
+   14. Species Scientific Name
+   15. Annotation Date
+   16. Sequence Type
+   17. Sequence Source
+   18. Alignments
+   19. Sequence Length
+   20. Sequence
+   21. Probe Set Name
+   22. Accession
+   23. Genome Context
+   24. Clustered miRNAs within 10kb
+   25. miRDB
+   26. TargetScan
+   27. miRTarBase
+   28. miRNA
+   29. Log2FC
+   30. Detected
+   31. Expression_Diff
+   32. antioxidant_score
+   33. anti_fibrotic_score
+   34. anti_inflammatory_score
+   35. angiogenic_score
+   36. proliferation_score
+   37. max_function_score
+   38. primary_function
+   39. targets
+   40. pathways
+   41. therapeutic_potential
+   42. mirbase_id
+   43. FC_score
+   44. Therapeutic_score
+   45. Evidence_score
+   46. Candidate_Score
+
+4. 필요한 컬럼 확인:

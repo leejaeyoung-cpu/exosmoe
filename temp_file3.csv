@@ -1,0 +1,3 @@
+﻿Tier,miRNA,Why(selected),Key_risk,Primary_readouts
+Core-2(최소 시작),hsa-miR-4739,다중 카테고리 커버(염증·섬유화·항산화·내피·CVD) 상위 + FC/검출 양호,기능 방향성은 in vitro에서 확인 필요,"TNFα/IL-6, ROS/ΔΨm, tube formation, COL1A1/αSMA"
+Core-2(최소 시작),hsa-miR-4651,"염증/내피/CVD + 손상반응 축을 함께 커버, FC 매우 높음",염증 억제 중심으로 치우칠 수 있어 내피/산화 축 확인 필요,"p-p65, VCAM1/ICAM1, ROS, fibrosis markers"
